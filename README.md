@@ -9,8 +9,3 @@ This is a Java GUI application designed to interact with a Microsoft Access data
 - **Student & Grades Records**: Add, delete, search, and modify student and grades information in the Access database.
 - **Import/Export Files**: Import data from files (e.g., Excel, text) and export data to files.
   
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Java-Access-Database-Manager.git
