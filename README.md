@@ -5,9 +5,9 @@ This is a Java GUI application designed to interact with a Microsoft Access data
 ## Features
 - **Java GUI**: User-friendly graphical interface built using Java Swing.
 - **UCanAccess**: Uses the UCanAccess library to connect to an Access database (.accdb).
-- **Prepared Statements**: Secure database queries using prepared statements to prevent SQL injection.
+- **Prepared Statements**: database queries using prepared statements.
 - **Student & Grades Records**: Add, delete, search, and modify student and grades information in the Access database.
-- **Import/Export Files**: Import data from files (e.g., CSV) and export data to files.
+- **Import/Export Files**: Import data from files (e.g., Excel, text) and export data to files.
   
 ## Installation
 
